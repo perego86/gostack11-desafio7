@@ -10,9 +10,6 @@ const App: React.FC = () => (
     <GlobalStyle />
     <Router>
       <Routes />
-
-
-      
     </Router>
   </>
 );
